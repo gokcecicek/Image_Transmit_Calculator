@@ -2,7 +2,7 @@
 @author: Beril Gökçe Çiçek
 @task: Write a code for calculating the size of any color image that is defined by the user and
 finding transmit time according to the modem that is given by the user.
-'''#
+'''
 
 import os
 import cv2
